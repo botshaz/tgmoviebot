@@ -45,7 +45,7 @@ add optional larger result buttons:
 * Check [info.py](info.py) for more
 
 ## Deploy
-You can deploy this bot anywhere.
+You can deploy this bot anywhere.https://github.com/botshaz/tgmoviebot)
 
 <details><summary>Deploy to Heroku</summary>
 <p>
